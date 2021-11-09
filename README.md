@@ -1,2 +1,2 @@
-# greetingApp-flask
-<title>My first simple app created with Flask</title>
+# My first simple app created with Flask
+
